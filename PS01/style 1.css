@@ -1,0 +1,15 @@
+svg{
+    background-color: hsla(240, 100%, 50%, 0.2);
+    width: 1000px;
+    height:1000px;
+
+}
+
+#oval1{
+    transform: rotate(20deg);
+}
+
+#oval3{
+    transform: rotate(-20deg);
+}
+
