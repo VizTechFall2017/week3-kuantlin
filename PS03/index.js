@@ -1,6 +1,7 @@
 var svg = d3.select('svg');
 
-/* Your code goes here */
+d3.csv('./Renewable Energy Resources.csv', function(dataIn){
+    console.log(dataIn);
 
 
 
